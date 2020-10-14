@@ -1,29 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Virus Official!
 
-You can use the [editor on GitHub](https://github.com/Vrxus/virus.github-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey! My name is Virus and I own the Virus Official discord server!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my first github site so contact me on discord, Vrxus#6969, if there is any bugs!
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi! My name is Frevin. I like Minecraft and sandbox games. I am studying Gamedev, Java, and Javascript. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```The Code I use
+I use github to host this site! Currently new to github and studying everyday!
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
